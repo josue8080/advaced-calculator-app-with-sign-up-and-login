@@ -29,22 +29,19 @@ Ensure you have Flutter installed on your system. You can download it from the o
 
 Installation
 Clone the repository:
-sh
-Copy code
+
 git clone https://github.com/your-username/tab-drawer-navigation.git
 Navigate to the project directory:
-sh
-Copy code
+
 cd tab-drawer-navigation
 Install dependencies:
-sh
-Copy code
+
 flutter pub get
 Running the Project
 To run the project on your local machine, use the following command:
 
-sh
-Copy code
+
+
 flutter run
 Usage
 Explore the application by navigating through the tabs and the drawer menu. The SignIn and SignUp screens are for UI demonstration purposes only and do not include backend functionality.
