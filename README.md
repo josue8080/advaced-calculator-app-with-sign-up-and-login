@@ -1,9 +1,9 @@
 Tab and Drawer Navigation Project
 
-Overview
+#Overview
 This project demonstrates how to create a tab-based navigation system and a navigation drawer using a hamburger menu icon in a Flutter application. The project includes three main screens accessible through tabs: SignIn, SignUp, and Calculator. It also features a navigation drawer with a slide-out animation, providing an additional way to navigate between different screens.
 
-SCREENSHOTS
+#SCREENSHOTS
 
 
 
@@ -15,14 +15,14 @@ SCREENSHOTS
 
 ![Screenshot 2024-06-29 211001](https://github.com/josue8080/advaced-calculator-app-with-sign-up-and-login/assets/105465521/942bfb28-35e2-4d44-ae92-0721942424db)
 
-Features
+#Features
 1. Tab-Based Navigation
 Tabs Included:
 SignIn: User Interface for signing in.
 SignUp: User Interface for signing up.
-Calculator: Basic calculator functionality.
-Design:
-Custom tab icons and labels.
+#Calculator: Basic calculator functionality.
+#Design:
+#Custom tab icons and labels.
 Handling navigation between different tabs.
 Customizing the appearance of active and inactive tabs.
 2. Navigation Drawer
@@ -35,11 +35,11 @@ Include screenshots of the user interfaces for SignIn and SignUp to provide a vi
 
 
 
-Getting Started
+#Getting Started
 Prerequisites
 Ensure you have Flutter installed on your system. You can download it from the official Flutter website.
 
-Installation
+#Installation
 Clone the repository:
 
 git clone https://github.com/your-username/tab-drawer-navigation.git
@@ -48,13 +48,13 @@ Navigate to the project directory:
 cd tab-drawer-navigation
 Install dependencies:
 
-flutter pub get
+#flutter pub get
 Running the Project
 To run the project on your local machine, use the following command:
 
 
 
-flutter run
+#flutter run
 Usage
 Explore the application by navigating through the tabs and the drawer menu. The SignIn and SignUp screens are for UI demonstration purposes only and do not include backend functionality.
 
